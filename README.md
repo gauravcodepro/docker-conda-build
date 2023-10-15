@@ -1,5 +1,5 @@
 # conda_package_builder_environment
-I coded this a conda package builder, no need to remember anything, simple source this in your warp workflow and update, install, remove conda as well as channel support with in dockers or compute clusters with a single input. Before writing the linux interfaces, i finished this so that it would be easier to call and update docker and docker swarm clusters with a single input. 
+I coded this a conda package builder, simple source this in your warp workflow and update, install, remove conda as well as channel support with in dockers or compute clusters with a single input. Before writing the linux interfaces, i finished this so that it would be easier to call and update docker and docker swarm clusters with a single input. 
 
 You can update dockers, docker swarms, kubernetes conda environment, computing cluster environment with simple inputs.
 
