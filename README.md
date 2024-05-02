@@ -4,7 +4,7 @@ a conda package builder, simple source this in your warp workflow and update, in
 
 ![conda_package_builder](https://github.com/sablokgaurav/conda_package_builder_environment/blob/main/conda_package_builder.png)
 
-Gaurav Sablok \
+Gaurav \
 Academic Staff Member \
 Bioinformatics \
 Institute for Biochemistry and Biology \
